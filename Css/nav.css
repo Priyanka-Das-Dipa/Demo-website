@@ -168,5 +168,13 @@ main{
     border-radius: 10px;
     /* border: 2px solid black; */
     box-shadow: 10px 6px 10px 10px rgb(239, 232, 232);
- 
+}
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+}
+.resume-column-title{
+    color:  #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
